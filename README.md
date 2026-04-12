@@ -7,7 +7,7 @@ I transition traditional post-production and VFX workflows into elastic, automat
 
 ---
 
-### A Note on Open Source vs. Enterprise
+### Enterprise Architecture & NDAs 
 As a Solutions Architect, the vast majority of my day-to-day engineering and architectural work is proprietary and locked behind enterprise NDAs or VPCs. While my personal public commit history might be quiet, I'm actively building large-scale media infrastructure in the private sector.
 
 ### What I am currently building:
@@ -24,6 +24,5 @@ As a Solutions Architect, the vast majority of my day-to-day engineering and arc
 
 ---
 
-📫 **Get in Touch:** * [LinkedIn](https://www.linkedin.com/in/karlfee/) 
-* [Personal Site](https://karlfee.com/)
+**Get in Touch:** * [LinkedIn](https://www.linkedin.com/in/karlfee/) | [Personal Site](https://karlfee.com/)
 
