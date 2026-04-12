@@ -24,5 +24,5 @@ As a Solutions Architect, the vast majority of my day-to-day engineering and arc
 
 ---
 
-**Get in Touch:** * [LinkedIn](https://www.linkedin.com/in/karlfee/) | [Personal Site](https://karlfee.com/)
+**Get in Touch:** [LinkedIn](https://www.linkedin.com/in/karlfee/) | [Personal Site](https://karlfee.com/)
 
