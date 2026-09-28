@@ -8,7 +8,7 @@ I transition traditional post-production and VFX workflows into elastic, automat
 ---
 
 ### Enterprise Architecture & NDAs 
-As a Solutions Architect, the vast majority of my day-to-day engineering and architectural work is proprietary and locked behind enterprise NDAs or VPCs. While my personal public commit history might be quiet, I'm actively building large-scale media infrastructure in the private sector.
+As a Solutions Architect, the vast majority of my day-to-day engineering and architectural work is proprietary and locked behind enterprise NDAs or VPCs. My work is available upon request as I'm actively building large-scale media infrastructure in the private sector.
 
 ### Currently Building
 * **Serverless Media Engines:** Engineering highly scalable, event-driven video processing pipelines using AWS Lambda, Docker, and custom FFmpeg containers.
